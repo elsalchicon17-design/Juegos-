@@ -1,0 +1,14 @@
+JUEGOS CFF - Farrera Ulloa Brayan
+Escuela: CECyT 5 – IPN
+Grupo: 3IM1
+
+Archivo 1: juego_1_reto_fiscal_CFF.html
+Archivo 2: juego_2_mision_contribuyente_CFF.html
+
+Ambos son juegos HTML autocontenidos. Ábrelos con un navegador para jugar.
+Para entregar una liga jugable, sube cada HTML a un servicio de publicación de páginas web que permita alojar HTML, o intégralos en una página de Google Sites/otra plataforma que admita HTML.
+
+Fuentes consultadas:
+- SAT, Código Fiscal de la Federación.
+- SAT, Artículo 17-K: Buzón Tributario.
+- SAT, Artículo 29: Expedición de comprobantes fiscales.
